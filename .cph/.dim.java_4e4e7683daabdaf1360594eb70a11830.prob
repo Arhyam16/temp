@@ -1,0 +1,1 @@
+{"name":"Local: dim","url":"/Users/arhyammalhotra/Documents/exception/dim.java","tests":[{"id":1720199608301,"input":"2 2\n1 1\n2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/arhyammalhotra/Documents/exception/dim.java","group":"local","local":true}

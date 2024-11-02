@@ -1,0 +1,1 @@
+{"name":"Local: insertionstar","url":"/Users/arhyammalhotra/Documents/exception/insertionstar.java","tests":[{"id":1720203528651,"input":"TestString\n2 5","output":"Te*stS*tring"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/arhyammalhotra/Documents/exception/insertionstar.java","group":"local","local":true}

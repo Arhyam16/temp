@@ -1,0 +1,1 @@
+{"name":"Local: bob","url":"/Users/arhyammalhotra/Documents/exception/bob.java","tests":[{"id":1720185240760,"input":"3\t\t\t\n100 200 300\n4\t\t\n300 200 100 200","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/arhyammalhotra/Documents/exception/bob.java","group":"local","local":true}
